@@ -1,0 +1,35 @@
+body{
+    background-color:lightblue
+}
+body{color: white;}
+h2{
+    color: rgb(130, 13, 13);
+    text-align : center;
+}
+.flexbox{
+    display:flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+.flexbox2{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    color: rgba(255, 0, 0, 0.922);
+    text-align: left;
+    font-weight: bold;
+}
+img{
+    width: 150;
+    height: 150;
+    border-radius: 50%;
+}
+.parcours{
+    background-color: white  
+    color: red
+}
+.li{
+    color:rgba(255, 0, 0, 0.922)
+}
+
+h2{color: white;}

@@ -1,0 +1,219 @@
+nav{
+    padding: 2%;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    border:2px solid black;
+    border-radius: 15px;
+}
+
+nav a:hover{
+    transform: scale(1.05);
+    opacity: 0.8;
+}
+
+input{
+    border-radius: 15px;
+}
+
+.RangEtListeMissionsS{
+display: flex;
+justify-content: center;
+align-items: stretch;
+}
+
+.RangS{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ListeDesMissionsS{
+    flex: 1;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+}
+
+.RangEtListeMissionsA{
+display: flex;
+justify-content: center;
+align-items: stretch;
+}
+
+.RangA{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ListeDesMissionsA{
+    flex: 1;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+}
+
+.RangEtListeMissionsB{
+display: flex;
+justify-content: center;
+align-items: stretch;
+}
+
+.RangB{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ListeDesMissionsB{
+    flex: 1;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+}
+
+.RangEtListeMissionsC{
+display: flex;
+justify-content: center;
+align-items: stretch;
+}
+
+.RangC{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ListeDesMissionsC{
+    flex: 1;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+}
+
+.RangEtListeMissionsD{
+display: flex;
+justify-content: center;
+align-items: stretch;
+}
+
+.RangD{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ListeDesMissionsD{
+    flex: 1;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: orange;
+}
+
+nav a {
+    text-decoration: none;
+    color: orange;
+    margin-right: 20px;
+}
+
+
+
+footer {
+    padding: 2%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid black; 
+    border-radius: 15px;
+}
+
+.basdepage {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%; 
+}
+
+.basdepage a {
+    text-decoration: none;
+    color: orange;
+}
+
+.basdepage a:hover{
+    transform: scale(1.05);
+    opacity: 0.8;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.logo img{
+    width:60px;
+    height:60px;
+    margin:10px;
+}
+
+@media (max-width:1025px) {
+
+    nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;}
+
+    .basdepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+}

@@ -1,0 +1,93 @@
+.en-tete{
+    background-color:rgb(204, 204, 204);
+    color: rgba(225, 131, 42, 0.864);
+    padding: 2%;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+}
+
+.en-tete a {
+  color: rgba(225, 131, 42, 0.864);
+  text-decoration: none;
+}
+
+.fleur{
+    width: 200px;
+    height: 145px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 0 30px;
+    gap: 200px;
+}
+
+.logo{display: flex;
+    justify-content:center;
+}
+
+h2{color: rgb(28, 206, 114);
+display: flex
+justify-content: center
+}
+
+.recherche > input{
+    border-radius: 3em;
+}
+
+.paragraphes{display: flex;
+justify-content:space-around;
+}
+
+.création{border: 2px solid rgb(209, 204, 204)
+}
+
+.décoration{border: 2px solid rgb(209, 204, 204)
+}
+
+.atelier{border: 2px solid rgb(209, 204, 204)
+}
+
+.fleurs2{width: 200px;
+        height:145px;
+        display:flex;
+        justify-content:space-between;
+        margin: 60px;
+        padding: 0 30px;
+        gap: 200px;
+        border-radius: 50%;
+}
+
+.separation1{
+    margin: 40px;
+}
+
+.separation2{
+    margin: 30px
+}
+
+.separation3{
+    margin: 40px;
+}
+
+.footer{
+    background-color:rgb(204, 204, 204);
+    padding: 2%;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer a {
+  color: rgba(225, 131, 42, 0.864);
+  text-decoration: none;
+}
+
+body{
+    background-image: url(http://zezete2.z.e.pic.centerblog.net/o/5f86747a.jpg );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Poppins', sans-serif;
+}

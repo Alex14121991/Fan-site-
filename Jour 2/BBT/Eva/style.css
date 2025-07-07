@@ -1,0 +1,36 @@
+h1 {
+text-align: center;
+color: pink;
+}
+
+h2 {
+    color: pink;
+    text-align: center;
+}
+
+.EvaServices{
+    color: pink;
+}
+
+.Competences{
+    text-align: left;
+}
+
+.bloc1{
+    text-align: left;
+    
+}
+
+.bloc2{
+    text-align:center;
+
+}
+
+.bloc3{text-align: right;}
+
+h3{color: aqua;}
+
+.container{
+    display:flex;
+    justify-content:space-around;
+}
